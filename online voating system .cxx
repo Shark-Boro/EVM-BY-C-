@@ -3,7 +3,7 @@
 #include <string.h> 
 // including necessary header files 
 
-  
+  // made by shark-boro
 #define MAX_C 11 
 // defining max number of candidates 
 
